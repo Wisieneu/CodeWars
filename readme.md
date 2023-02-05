@@ -1,4 +1,4 @@
-# CodeWars Challenges: <a target="_blank" href="codewars.com/users/Wisieneu" >My profile</a>
+# CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/Wisieneu" >My profile</a>
 
 A repository filled with codewars challenges (kata). I try to do them every day to keep myself consistent in the art or problem solving, as well as mastering the syntax of a certain language.  
 
